@@ -1,5 +1,6 @@
 # terminologies
 This repository is used for addressing issues related to task 2 of the I-ADOPT workplan.
+
 Task 2: Survey observation-centric terminologies
 Conduct a survey, and synthesize the results of related surveys conducted by other groups (like
 the Polar Vocabulary survey39), of observation-centric top-level representations (in most cases
