@@ -10,3 +10,5 @@ units, methods, instruments, etc.) in use. If necessary, prepare a questionnaire
 2020, (6 weeks of circulation).
 This will contribute to building a fine-grained collection list of semantic representations of
 observable properties (as input for task 4) and to a catalog of domain specific terminologies.
+
+Please check the questionnaire here: https://docs.google.com/forms/d/1M8utiNZkzTDMVzPnqGJhlER45U1-s2e5UvVSAp0GGgg/edit (this is just a copy of the original)
