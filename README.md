@@ -12,3 +12,8 @@ This will contribute to building a fine-grained collection list of semantic repr
 observable properties (as input for task 4) and to a catalog of domain specific terminologies.
 
 Please check the questionnaire here: https://docs.google.com/forms/d/1M8utiNZkzTDMVzPnqGJhlER45U1-s2e5UvVSAp0GGgg/edit (this is just a copy of the original)
+
+There was the request to provide two different types of questionnaires, one for terminology providers and one for terminology consumers. 
+See here:
+for providers: https://docs.google.com/forms/d/1bUKcMviJr9UGUS6haVo_IcR0TRVxdNAISsPouE55Fpo/edit
+for consumers: https://docs.google.com/forms/d/1X5xE492Tir5yPi0BrmF2aA4bOcozYafzE_0olrL7K64/edit
