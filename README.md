@@ -15,7 +15,7 @@ Please check the questionnaire here: https://docs.google.com/forms/d/1M8utiNZkzT
 
 There was the request to provide two different types of questionnaires, one for terminology providers and one for terminology consumers. 
 
-See here:
+See here (only copies):
 
 for providers: https://docs.google.com/forms/d/1bUKcMviJr9UGUS6haVo_IcR0TRVxdNAISsPouE55Fpo/edit
 
