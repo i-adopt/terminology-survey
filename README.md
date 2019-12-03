@@ -11,10 +11,14 @@ units, methods, instruments, etc.) in use. If necessary, prepare a questionnaire
 This will contribute to building a fine-grained collection list of semantic representations of
 observable properties (as input for task 4) and to a catalog of domain specific terminologies.
 
+This work is still under discussion:
+
+Gwen's proposal:
 Please check the questionnaire here: https://docs.google.com/forms/d/1M8utiNZkzTDMVzPnqGJhlER45U1-s2e5UvVSAp0GGgg/edit (this is just a copy of the original)
 
 There was the request to provide two different types of questionnaires, one for terminology providers and one for terminology consumers. 
 
+Barbara's proposal:
 See here (only copies):
 
 for providers: https://docs.google.com/forms/d/1bUKcMviJr9UGUS6haVo_IcR0TRVxdNAISsPouE55Fpo/edit
