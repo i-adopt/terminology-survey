@@ -24,3 +24,6 @@ See here (only copies):
 for providers: https://docs.google.com/forms/d/1bUKcMviJr9UGUS6haVo_IcR0TRVxdNAISsPouE55Fpo/edit
 
 for consumers: https://docs.google.com/forms/d/1X5xE492Tir5yPi0BrmF2aA4bOcozYafzE_0olrL7K64/edit
+
+lime survey version (including questions for providers and consuming) 
+
