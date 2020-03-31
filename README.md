@@ -1,4 +1,4 @@
-# Documentation of existing observation-centric terminologies
+# Survey of existing observation-centric terminologies
 This repository is used for addressing issues related to task 2 of the I-ADOPT workplan.
 
 Task 2: Survey observation-centric terminologies
