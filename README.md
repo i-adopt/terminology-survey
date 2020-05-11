@@ -18,7 +18,7 @@ If you wish to contribute, you can access the survey using one of these links, d
 
 •	[Short survey for terminology providers](https://survey.lter-europe.net/index.php/219398?lang=en) (7 min/25 questions)
 
-•	[Short survey for terminology consumers] (https://survey.lter-europe.net/index.php/351768?lang=en) (7 min/25 questions)
+•	[Short survey for terminology consumers](https://survey.lter-europe.net/index.php/351768?lang=en) (7 min/25 questions)
 
 
 Preliminary results were presented at the [I-ADOPT session at RDA 15 Virtual Plenary](https://www.rd-alliance.org/group/vocabulary-services-ig-interoperable-descriptions-observable-property-terminology-wg-i-adopt-0) and can be browsed in slides 17-27 of this [presentation](https://docs.google.com/presentation/d/1u5iKwnTJdSpExJdrLR-xE2Cv3x3mGY-yM6kNc1xEav4/edit#slide=id.g81a7dc456f_0_1).
