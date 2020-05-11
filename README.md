@@ -15,7 +15,9 @@ It was launched on 23 January 2020. It targets both terminology users and termin
 If you wish to contribute, you can access the survey using one of these links, depending on your time: 
 
 •	[Comprehensive survey for terminology providers and/or consumers](https://survey.lter-europe.net/index.php/388853?lang=en) (~30 min /46 questions)
+
 •	[Short survey for terminology providers](https://survey.lter-europe.net/index.php/219398?lang=en) (7 min/25 questions)
+
 •	[Short survey for terminology consumers] (https://survey.lter-europe.net/index.php/351768?lang=en) (7 min/25 questions)
 
 
